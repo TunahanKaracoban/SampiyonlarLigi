@@ -1,7 +1,7 @@
 # SampiyonlarLigi Simülasyonu
 ## Proje Açıklaması 
 
-- Kurada ki takım sayısı 32 dir.
+
 - Konu : Şampiyonlar Ligi Simülasyonu
 
 - Kuradaki takım sayısı 32 dir.
